@@ -1,0 +1,32 @@
+p {
+    color: black;
+    font-size: 24px;
+}
+h1 {
+    color: black;
+    font-size: 26px;
+}
+h2 {
+    color: black;
+    font-size: 14px;
+}
+img {
+    width: 370; height: 294;
+}
+
+.title {
+    color:blue
+}
+
+.anothertitle {
+    color: blue; font-size: 14px;
+}
+
+body {
+    font-family: 'Roboto',
+    sans-serif;
+}
+
+.details{
+font-size: 16px;
+}
